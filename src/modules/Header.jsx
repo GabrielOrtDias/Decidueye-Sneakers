@@ -15,7 +15,7 @@ export function Header() {
             </div>
             <ul className="flex text-forest-4 gap-10 text-md">
                 <li className="hover:text-xl duration-300 cursor-pointer">Tinkaton</li>
-                <li className="hover:text-xl duration-300 cursor-pointer">Gallade</li>
+                <li className="hover:text-xl duration-300 cursor-pointer">Calyrex</li>
             </ul>
             <ul className="flex text-forest-4 gap-10 text-xl">
                 <li
