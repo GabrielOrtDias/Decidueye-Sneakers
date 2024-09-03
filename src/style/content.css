@@ -1,0 +1,7 @@
+#sneaker{
+    position: absolute;
+    top: 0;
+    left: 70%;
+    rotate: -30deg;
+    transform: translateX(-50%) scaleX(-100%);
+}
